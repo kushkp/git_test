@@ -6,3 +6,9 @@ def feature1(args)
     print arg
   end
 end
+
+
+#feature2
+def notsure
+  puts "i just dont know"
+end
